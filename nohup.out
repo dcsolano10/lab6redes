@@ -1,0 +1,143 @@
+Corriendo servidor
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at server.Server.main(Server.java:35)
+	... 5 more
+Corriendo servidor
+1: 316 ms
+Objetos recibidos: 1 Objetos faltantes: 0 Tiempo promedio: 316.0 ms
+2: 331 ms
+Objetos recibidos: 2 Objetos faltantes: 0 Tiempo promedio: 323.5 ms
+3: 332 ms
+Objetos recibidos: 3 Objetos faltantes: 0 Tiempo promedio: 218.5 ms
+5: 334 ms
+Objetos recibidos: 4 Objetos faltantes: 1 Tiempo promedio: 138.125 ms
+6: 337 ms
+Objetos recibidos: 5 Objetos faltantes: 1 Tiempo promedio: 95.025 ms
+8: 338 ms
+Objetos recibidos: 6 Objetos faltantes: 2 Tiempo promedio: 72.17083333333333 ms
+10: 342 ms
+Objetos recibidos: 7 Objetos faltantes: 3 Tiempo promedio: 59.16726190476191 ms
+4: 573074265599657 ms
+Objetos recibidos: 8 Objetos faltantes: 2 Tiempo promedio: 7.163428319996452E13 ms
+7: 573074265599655 ms
+Objetos recibidos: 9 Objetos faltantes: 1 Tiempo promedio: 7.163428319995772E13 ms
+11: 346 ms
+Objetos recibidos: 10 Objetos faltantes: 1 Tiempo promedio: 7.163428320030372E12 ms
+12: 356 ms
+Objetos recibidos: 11 Objetos faltantes: 1 Tiempo promedio: 6.512207563987611E11 ms
+9: 573074265599643 ms
+Objetos recibidos: 12 Objetos faltantes: 0 Tiempo promedio: 4.781045719633681E13 ms
+13: 358 ms
+Objetos recibidos: 13 Objetos faltantes: 0 Tiempo promedio: 3.6777274766688315E12 ms
+15: 360 ms
+Objetos recibidos: 14 Objetos faltantes: 1 Tiempo promedio: 2.6269481978777368E11 ms
+14: 361 ms
+Objetos recibidos: 15 Objetos faltantes: 0 Tiempo promedio: 1.7512988009918247E10 ms
+16: 364 ms
+Objetos recibidos: 16 Objetos faltantes: 0 Tiempo promedio: 1.0945617733698905E9 ms
+17: 367 ms
+Objetos recibidos: 17 Objetos faltantes: 0 Tiempo promedio: 6.438600825705238E7 ms
+22: 368 ms
+Objetos recibidos: 18 Objetos faltantes: 4 Tiempo promedio: 3577020.9031695765 ms
+24: 369 ms
+Objetos recibidos: 19 Objetos faltantes: 5 Tiempo promedio: 188283.67911418824 ms
+26: 370 ms
+Objetos recibidos: 20 Objetos faltantes: 6 Tiempo promedio: 9432.683955709412 ms
+31: 371 ms
+Objetos recibidos: 21 Objetos faltantes: 10 Tiempo promedio: 466.8420931290196 ms
+29: 372 ms
+Objetos recibidos: 22 Objetos faltantes: 9 Tiempo promedio: 38.12918605131907 ms
+35: 373 ms
+Objetos recibidos: 23 Objetos faltantes: 12 Tiempo promedio: 17.875182002231263 ms
+37: 374 ms
+Objetos recibidos: 24 Objetos faltantes: 13 Tiempo promedio: 16.328132583426303 ms
+41: 375 ms
+Objetos recibidos: 25 Objetos faltantes: 16 Tiempo promedio: 15.65312530333705 ms
+42: 379 ms
+Objetos recibidos: 26 Objetos faltantes: 16 Tiempo promedio: 15.178966357820656 ms
+19: 380 ms
+Objetos recibidos: 27 Objetos faltantes: 15 Tiempo promedio: 14.636258013252617 ms
+18: 388 ms
+Objetos recibidos: 28 Objetos faltantes: 14 Tiempo promedio: 14.379866357616166 ms
+20: 389 ms
+Objetos recibidos: 29 Objetos faltantes: 13 Tiempo promedio: 13.90965056405573 ms
+25: 390 ms
+Objetos recibidos: 30 Objetos faltantes: 12 Tiempo promedio: 13.463655018801857 ms
+21: 390 ms
+Objetos recibidos: 31 Objetos faltantes: 11 Tiempo promedio: 13.014956613509737 ms
+23: 395 ms
+Objetos recibidos: 32 Objetos faltantes: 10 Tiempo promedio: 12.75046739417218 ms
+27: 396 ms
+Objetos recibidos: 33 Objetos faltantes: 9 Tiempo promedio: 12.3863777998234 ms
+28: 397 ms
+Objetos recibidos: 34 Objetos faltantes: 8 Tiempo promedio: 12.040775817641864 ms
+32: 397 ms
+Objetos recibidos: 35 Objetos faltantes: 7 Tiempo promedio: 11.686879309075483 ms
+30: 398 ms
+Objetos recibidos: 36 Objetos faltantes: 6 Tiempo promedio: 11.380191091918764 ms
+33: 398 ms
+Objetos recibidos: 37 Objetos faltantes: 5 Tiempo promedio: 11.064329488970778 ms
+34: 399 ms
+Objetos recibidos: 38 Objetos faltantes: 4 Tiempo promedio: 10.79116656549923 ms
+36: 399 ms
+Objetos recibidos: 39 Objetos faltantes: 3 Tiempo promedio: 10.507465809371775 ms
+38: 408 ms
+Objetos recibidos: 40 Objetos faltantes: 2 Tiempo promedio: 10.462686645234294 ms
+39: 409 ms
+Objetos recibidos: 41 Objetos faltantes: 1 Tiempo promedio: 10.230797235249616 ms
+40: 409 ms
+Objetos recibidos: 42 Objetos faltantes: 0 Tiempo promedio: 9.981685648458324 ms
+44: 413 ms
+Objetos recibidos: 43 Objetos faltantes: 1 Tiempo promedio: 9.83678338717345 ms
+46: 413 ms
+Objetos recibidos: 44 Objetos faltantes: 2 Tiempo promedio: 9.609926895163033 ms
+156: 414 ms
+Objetos recibidos: 45 Objetos faltantes: 111 Tiempo promedio: 9.413553931003623 ms
+167: 414 ms
+Objetos recibidos: 46 Objetos faltantes: 121 Tiempo promedio: 9.204642476760949 ms
+169: 415 ms
+Objetos recibidos: 47 Objetos faltantes: 122 Tiempo promedio: 9.025630690994914 ms
+174: 415 ms
+Objetos recibidos: 48 Objetos faltantes: 126 Tiempo promedio: 8.833867306062393 ms
+210: 418 ms
+Objetos recibidos: 49 Objetos faltantes: 161 Tiempo promedio: 8.71089525114413 ms
+222: 418 ms
+Objetos recibidos: 50 Objetos faltantes: 172 Tiempo promedio: 8.534217905022881 ms
+227: 421 ms
+Objetos recibidos: 51 Objetos faltantes: 176 Tiempo promedio: 8.422239566765155 ms
+226: 426 ms
+Objetos recibidos: 52 Objetos faltantes: 175 Tiempo promedio: 8.354273837822406 ms
+229: 427 ms
+Objetos recibidos: 53 Objetos faltantes: 176 Tiempo promedio: 8.214231581845706 ms
+232: 427 ms
+Objetos recibidos: 54 Objetos faltantes: 178 Tiempo promedio: 8.059522807071216 ms
+259: 428 ms
+Objetos recibidos: 55 Objetos faltantes: 204 Tiempo promedio: 7.928354960128567 ms
+266: 428 ms
+Objetos recibidos: 56 Objetos faltantes: 210 Tiempo promedio: 7.784434910002296 ms
+265: 429 ms
+Objetos recibidos: 57 Objetos faltantes: 209 Tiempo promedio: 7.662884822982496 ms
+273: 429 ms
+Objetos recibidos: 58 Objetos faltantes: 215 Tiempo promedio: 7.528670427982457 ms
+271: 430 ms
+Objetos recibidos: 59 Objetos faltantes: 214 Tiempo promedio: 7.415740176745465 ms
+272: 430 ms
+Objetos recibidos: 60 Objetos faltantes: 213 Tiempo promedio: 7.290262336279091 ms
+282: 431 ms
+Objetos recibidos: 61 Objetos faltantes: 221 Tiempo promedio: 7.185086267807854 ms
+286: 431 ms
+Objetos recibidos: 62 Objetos faltantes: 224 Tiempo promedio: 7.067501391416255 ms
+288: 436 ms
+Objetos recibidos: 63 Objetos faltantes: 225 Tiempo promedio: 7.032817482403433 ms
+293: 440 ms
+Objetos recibidos: 64 Objetos faltantes: 229 Tiempo promedio: 6.984887773162554 ms
+295: 441 ms
+Objetos recibidos: 65 Objetos faltantes: 230 Tiempo promedio: 6.892075196510193 ms
+294: 441 ms
+Objetos recibidos: 66 Objetos faltantes: 229 Tiempo promedio: 6.786243563583487 ms
